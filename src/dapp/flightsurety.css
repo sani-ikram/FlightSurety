@@ -1,0 +1,91 @@
+body {
+    background-image: url('flight.jpg'); /* Source: iStockPhoto */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    margin-top: 400px;
+    background-color: rgba(83, 83, 83, 0.973);
+    opacity: 1;
+    color: rgb(239, 240, 245);
+    padding: 40px;
+}
+.container1 {
+    margin-top: 20px;
+    background-color: rgba(175, 129, 60, 0.973);
+    opacity: 1;
+    color: rgb(239, 240, 245);
+    padding: 40px;
+}
+.container2 {
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: rgba(83, 83, 83, 0.973);
+    opacity: 1;
+    color: rgb(239, 240, 245);
+    padding: 40px;
+}
+.container3 {
+    margin-top: 100px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: rgba(83, 83, 83, 0.973);
+    opacity: 1;
+    color: rgb(239, 240, 245);
+    padding: 40px;
+}
+/*.container {
+    margin-top: 400px;
+    background-color: rgb(14, 9, 5);
+    opacity: 0.9;
+    color: #fff;
+    padding: 40px;
+}*/
+
+
+.top-20 {
+    margin-top: 20px;
+}
+.left-Right-20 {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.bottom-50 {
+    margin-bottom: 50px;
+}
+.top-10 {
+    margin-top: 10px;
+}
+.top-50 {
+    margin-top: 50px;
+}
+
+h5 {
+    color: #999999;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+.field {
+    font-weight: bold;
+    text-align: right;
+}
+
+.field-value {
+    color: #a01111;
+}
+
+
+
+label.form {
+    font-size: 14px;
+    margin-right: 20px;
+}
+input {
+    margin-right: 30px;
+}
