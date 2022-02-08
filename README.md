@@ -20,3 +20,10 @@ Insuree can log into the portal using their wallet address and flight No and the
 
 This whole process ensures that customer gets served efficiently, offers faster insurance claim processing as claims get processed automatically by airlines without requiring end user to initiate the process
 Thus resulting higher customer satisfaction and faster delivery of service. 
+This project consist of 
+
+1. Data Contract 
+2. App Contract 
+
+Data Contract acts like a Database, where all the information related to airlines, flight and insurees are being stored.
+App contract is where all the functionalities are being defined from the business operations view point.
