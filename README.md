@@ -1,4 +1,4 @@
-# FlightSurety
+# FlightSurety - Blockchin based Insurance Project
 This Flight Surety Project is a blockchain based project.This provides the ability to provide the insuree with the 1.5 * the insurance money they paid to register for flight in case of any flight delay or cancellations.
 
 Following addresses are currently assigned. 
