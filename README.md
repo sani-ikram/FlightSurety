@@ -8,7 +8,8 @@ Airline 1 : 0x20AD6a08Ca74c3235402fc2215A938230B2D6796(Primary Airline)
 Airline 2: 0xc5f3eee44d44d9b530bfc8abb171d06c3bcaabfa
 
 user: 0x8742ff5d6aa94173cc6fad836140f49b4fadad38
-insurance Company: 0x88a6a89522cabed146e8f185c3766ca74327a665
+
+Insurance Company: 0x88a6a89522cabed146e8f185c3766ca74327a665
 
 Airline can sign up for insurance if they can provide 10 Ethers of fundings
 Flights can sign up for insurance if the airline they belong to has already signed up 
