@@ -2,6 +2,7 @@
 This Flight Surety Project is a blockchain based project.This provides the ability to provide the insuree with the 1.5 * the insurance money they paid to register for flight in case of any flight delay or cancellations.
 
 Following addresses are currently assigned. 
+
 Airline 1 : 0x20AD6a08Ca74c3235402fc2215A938230B2D6796(Primary Airline)
 
 Airline 2: 0xc5f3eee44d44d9b530bfc8abb171d06c3bcaabfa
